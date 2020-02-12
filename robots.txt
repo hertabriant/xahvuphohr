@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eemieshoo.elfreyshira.com/sitemap.xml
